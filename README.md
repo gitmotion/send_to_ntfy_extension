@@ -18,7 +18,7 @@ Added Enable Prefill with Url and Enable Dark Mode Options / Checkboxes:
 
 | Screenshot | Demo |
 |---|---|
-| <a href="https://github.com/user-attachments/assets/f90afec9-a1c0-4db9-ad15-3b1439e6a1bf" target="_blank">![](https://github.com/user-attachments/assets/f90afec9-a1c0-4db9-ad15-3b1439e6a1bf)</a> | <a href="https://github.com/user-attachments/assets/10e70aa5-65d3-4494-bb5a-0eccb7618002" target="_blank">![](https://github.com/user-attachments/assets/10e70aa5-65d3-4494-bb5a-0eccb7618002)</a> |
+| <a href="https://github.com/user-attachments/assets/96021502-ccb8-41b4-8af5-a6d5a6d31aa1" target="_blank">![](https://github.com/user-attachments/assets/96021502-ccb8-41b4-8af5-a6d5a6d31aa1)</a> | <a href="https://github.com/user-attachments/assets/10e70aa5-65d3-4494-bb5a-0eccb7618002" target="_blank">![](https://github.com/user-attachments/assets/10e70aa5-65d3-4494-bb5a-0eccb7618002)</a> |
 
 ##
 
