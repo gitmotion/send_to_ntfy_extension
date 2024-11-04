@@ -1,7 +1,7 @@
 # send_to_ntfy_extension
 
 ## gitmotion additions
-Added Enable Prefill with Url and Enable Dark Mode Options / Checkboxes:
+Added Enable Prefill with Url and Enable Dark Mode Options / Checkboxes: https://github.com/TheDuffman85/send_to_ntfy_extension/pull/2/files
 - for more customizability and quality of life improvements
 - refactored code so it's more extensible and reusable
 
